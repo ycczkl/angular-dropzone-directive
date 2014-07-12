@@ -4,7 +4,7 @@ Angualr-Dropzone-Directive
 
 An Angular directive for dropzone.js
 
-
+Kelun Zhang
 # Usage
 
 # Install
